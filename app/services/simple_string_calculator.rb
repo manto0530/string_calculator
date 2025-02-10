@@ -1,4 +1,4 @@
-class StringCalculator
+class SimpleStringCalculator
   def add(numbers)
     return 0 if numbers.empty?
 
